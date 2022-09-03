@@ -12,5 +12,5 @@ O seminários são compostos pela produção de um *Paper* sobre um determinado 
 
 | Semestre | Tema | Título da Pesquisa | Objeto de Aprendizagem |
 | :---: | :---: | :---: | --- |
-| 1° (02/2020) | Introdução à Pesquisa | Introdução à Pesquisa: Importância, Método e Prática | Fundamentação Teórica/ Referências |
+| 1° (02/2020) | Introdução à Pesquisa | [Introdução à Pesquisa: Importância, Método e Prática](./Seminarios/2_Periodo/Introducao_a_Pesquisa_Importancia_Metodo_e_Pratica.pdf) | Fundamentação Teórica/ Referências |
 
